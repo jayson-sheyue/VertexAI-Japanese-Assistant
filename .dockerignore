@@ -1,0 +1,6 @@
+.venvJP/
+__pycache__/
+client_secret.json
+japanese_learning.db
+*.db
+.git/

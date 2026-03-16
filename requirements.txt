@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+google-cloud-aiplatform
+google-generativeai
+gTTS==2.5.1
+streamlit-oauth
+psycopg2-binary
