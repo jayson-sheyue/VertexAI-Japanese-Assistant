@@ -33,7 +33,7 @@
 ## 🛠️ 技术栈 (Tech Stack)
 
 * **前端/交互**: Streamlit (Python)
-* **大模型引擎**: Gemini 1.5 Pro (Dual-Track: `vertexai` & `google-generativeai`)
+* **大模型引擎**: Gemini (Dual-Track: `vertexai` & `google-generativeai`)
 * **数据库**: PostgreSQL (Google Cloud SQL) / `psycopg2-binary`
 * **身份鉴权**: Google OAuth 2.0 (OpenID)
 * **部署/容器化**: Docker, Google Cloud Run
