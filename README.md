@@ -1,6 +1,6 @@
 # 🎌 Vertex AI 日语学习助手 (Dual-Track SaaS Edition)
 
-🚀 **基于 Google Cloud Run 与 Gemini 1.5 Pro 打造的云原生 AI 语言外教系统**
+🚀 **基于 Google Cloud Run 与 Gemini 大模型打造的云原生 AI 语言外教系统**
 
 本项目是一个完整的、达到商业级 SaaS 标准的日语学习 Web 应用。它不仅实现了大模型多模态（文本/语音）的深度调用，还在底层架构上实现了**异步任务队列、双通道 AI 路由、企业级持久化数据库挂载与容灾冷备份**，彻底告别了传统 Python 脚本的单机局限。
 
